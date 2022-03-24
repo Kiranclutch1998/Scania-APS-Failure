@@ -1,0 +1,21 @@
+2022-03-24/20:48:41		Start of Prediction
+2022-03-24/20:48:46		Entered the remove_columns method of the Preprocessor class
+2022-03-24/20:48:46		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-24/20:51:46		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-24/20:51:46		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-24/20:51:47		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-24/20:51:49		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-24/20:51:49		Entered the load_model method of the File_Operation class
+2022-03-24/20:51:49		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/SVM/SVM.sav'
+2022-03-24/20:51:49		Model File SVM could not be saved. Exited the load_model method of the Model_Finder class
+2022-03-24/20:51:49		Error occurred while running the prediction!! Error:: 
+2022-03-24/20:54:11		Start of Prediction
+2022-03-24/20:54:14		Entered the remove_columns method of the Preprocessor class
+2022-03-24/20:54:14		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-24/20:57:12		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-24/20:57:12		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-24/20:57:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-24/20:57:14		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-24/20:57:14		Entered the load_model method of the File_Operation class
+2022-03-24/20:57:15		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-24/20:57:22		End of Prediction
