@@ -6,5 +6,5 @@ The dataset consists of data collected from heavy Scania trucks in everyday usag
 The training set contains 60000 examples in total in which 59000 belong to the negative class and 1000 positive class. 
 The test set contains 16000 examples.
 
-![image](https://user-images.githubusercontent.com/76097123/160008514-ef8abde2-27f3-40d2-9ba7-0d4230b66230.png)
+![image](https://user-images.githubusercontent.com/76097123/160011360-e4b92d2d-81c1-45f8-adce-5e098870f737.png)
 
