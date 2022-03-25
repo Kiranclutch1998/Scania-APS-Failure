@@ -23,7 +23,7 @@ class trainModel:
         self.log_writer.log(self.file_object, 'Start of Training')
         try:
             # Getting the data from the source
-            data = pd.read_csv('EDA + training/aps_failure_training_set.csv')
+            data = pd.read_csv('EDA/aps_failure_training_set.csv')
 
             """doing the data preprocessing"""
 
@@ -52,8 +52,10 @@ class trainModel:
 
             X = preprocessor.pcaTransformation(X)
 
-            # splitting the data into training and test set for each cluster one by one
-            x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=1 / 3, random_state=36)
+            X, Y = preprocessor.handleImbalance(X, Y)
+
+            # splitting the data into training and test set
+            x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=0.5, random_state=0)
 
             model = SVC(kernel='rbf', C=1.0, random_state=0)
             model.fit(x_train, y_train)

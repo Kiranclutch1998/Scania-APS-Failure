@@ -1,7 +1,8 @@
 import pandas as pd
 import numpy as np
 from sklearn.decomposition import PCA
-from sklearn.impute import KNNImputer
+from sklearn.impute import SimpleImputer
+from imblearn.over_sampling import SMOTE
 from sklearn.preprocessing import StandardScaler
 
 
@@ -42,7 +43,7 @@ class Preprocessor:
     def handleMissingValues(self, data):
         self.data = data
         try:
-            imputer = KNNImputer(n_neighbors=3, weights='uniform', missing_values=np.nan)
+            imputer = SimpleImputer(missing_values=np.NaN, strategy='median', copy=True)
             self.new_array = imputer.fit_transform(self.data)  # impute the missing values
             # convert the nd-array returned to the step above to a Dataframe
             self.new_data = pd.DataFrame(data=self.new_array, columns=self.data.columns)
@@ -135,3 +136,11 @@ class Preprocessor:
             self.logger_object.log(self.file_object,
                                    'scaling for numerical columns Failed. Exited the scale_numerical_columns method of the Preprocessor class')
             raise Exception()
+
+    def handleImbalance(self, X, Y):
+
+        sample = SMOTE(sampling_strategy=0.3)
+
+        X_bal, y_bal = sample.fit_resample(X, Y)
+
+        return X_bal, y_bal

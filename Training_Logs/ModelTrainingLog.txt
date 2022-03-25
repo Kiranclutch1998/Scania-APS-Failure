@@ -28,3 +28,75 @@
 2022-03-24/17:25:17		Entered the save_model method of the File_Operation class
 2022-03-24/17:25:18		Model File SVC saved. Exited the save_model method of the Model_Finder class
 2022-03-24/17:25:18		Successful End of Training
+2022-03-25/13:12:15		Start of Training
+2022-03-25/13:12:31		Entered the separate_label_feature method of the Preprocessor class
+2022-03-25/13:12:31		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-25/13:12:42		Entered the remove_columns method of the Preprocessor class
+2022-03-25/13:12:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/13:51:46		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/13:53:02		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/13:53:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/13:53:19		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/13:54:38		Entered the save_model method of the File_Operation class
+2022-03-25/13:54:38		Model File SVC saved. Exited the save_model method of the Model_Finder class
+2022-03-25/13:54:40		Successful End of Training
+2022-03-25/14:24:04		Start of Training
+2022-03-25/14:24:09		Entered the separate_label_feature method of the Preprocessor class
+2022-03-25/14:24:09		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-25/14:24:16		Entered the remove_columns method of the Preprocessor class
+2022-03-25/14:24:16		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/14:58:51		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/14:58:51		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/14:58:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/14:59:01		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/15:00:18		Entered the save_model method of the File_Operation class
+2022-03-25/15:00:18		Model File SVC saved. Exited the save_model method of the Model_Finder class
+2022-03-25/15:00:18		Successful End of Training
+2022-03-25/15:11:55		Start of Training
+2022-03-25/15:12:04		Entered the separate_label_feature method of the Preprocessor class
+2022-03-25/15:12:04		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-25/15:12:12		Entered the remove_columns method of the Preprocessor class
+2022-03-25/15:12:12		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/15:40:50		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/15:40:50		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/15:40:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/15:40:58		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/15:41:11		Entered the save_model method of the File_Operation class
+2022-03-25/15:41:12		Model File SVC saved. Exited the save_model method of the Model_Finder class
+2022-03-25/15:41:12		Successful End of Training
+2022-03-25/16:07:39		Start of Training
+2022-03-25/16:07:51		Entered the separate_label_feature method of the Preprocessor class
+2022-03-25/16:07:51		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-25/16:08:02		Entered the remove_columns method of the Preprocessor class
+2022-03-25/16:08:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/16:08:14		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/16:09:32		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:09:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:09:43		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/16:10:21		Entered the save_model method of the File_Operation class
+2022-03-25/16:10:21		Model File SVC saved. Exited the save_model method of the Model_Finder class
+2022-03-25/16:10:23		Successful End of Training
+2022-03-25/16:19:16		Start of Training
+2022-03-25/16:19:25		Entered the separate_label_feature method of the Preprocessor class
+2022-03-25/16:19:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-25/16:19:36		Entered the remove_columns method of the Preprocessor class
+2022-03-25/16:19:36		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/16:19:46		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/16:19:46		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:19:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:19:57		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/16:20:31		Entered the save_model method of the File_Operation class
+2022-03-25/16:20:31		Model File SVC saved. Exited the save_model method of the Model_Finder class
+2022-03-25/16:20:31		Successful End of Training
+2022-03-25/16:23:50		Start of Training
+2022-03-25/16:23:57		Entered the separate_label_feature method of the Preprocessor class
+2022-03-25/16:23:57		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-25/16:24:08		Entered the remove_columns method of the Preprocessor class
+2022-03-25/16:24:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/16:24:19		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/16:24:19		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:24:24		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:24:29		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/16:24:43		Entered the save_model method of the File_Operation class
+2022-03-25/16:24:43		Model File SVC saved. Exited the save_model method of the Model_Finder class
+2022-03-25/16:24:43		Successful End of Training

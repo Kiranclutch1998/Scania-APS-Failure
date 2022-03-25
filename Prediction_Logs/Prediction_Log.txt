@@ -19,3 +19,63 @@
 2022-03-24/20:57:14		Entered the load_model method of the File_Operation class
 2022-03-24/20:57:15		Model File SVC loaded. Exited the load_model method of the Model_Finder class
 2022-03-24/20:57:22		End of Prediction
+2022-03-25/13:57:31		Start of Prediction
+2022-03-25/13:57:34		Entered the remove_columns method of the Preprocessor class
+2022-03-25/13:57:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/14:00:04		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/14:00:04		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/14:00:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/14:00:06		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/14:00:06		Entered the load_model method of the File_Operation class
+2022-03-25/14:00:06		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-25/14:00:10		End of Prediction
+2022-03-25/15:03:30		Start of Prediction
+2022-03-25/15:03:33		Entered the remove_columns method of the Preprocessor class
+2022-03-25/15:03:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/15:06:10		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/15:06:10		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/15:06:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/15:06:12		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/15:06:12		Entered the load_model method of the File_Operation class
+2022-03-25/15:06:12		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-25/15:06:17		End of Prediction
+2022-03-25/15:44:19		Start of Prediction
+2022-03-25/15:44:23		Entered the remove_columns method of the Preprocessor class
+2022-03-25/15:44:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/15:46:46		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/15:46:46		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/15:46:47		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/15:46:48		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/15:46:48		Entered the load_model method of the File_Operation class
+2022-03-25/15:46:48		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-25/15:46:52		End of Prediction
+2022-03-25/16:11:05		Start of Prediction
+2022-03-25/16:11:08		Entered the remove_columns method of the Preprocessor class
+2022-03-25/16:11:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/16:11:10		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/16:11:10		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:11:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:11:12		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/16:11:12		Entered the load_model method of the File_Operation class
+2022-03-25/16:11:12		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-25/16:11:16		End of Prediction
+2022-03-25/16:21:43		Start of Prediction
+2022-03-25/16:21:47		Entered the remove_columns method of the Preprocessor class
+2022-03-25/16:21:47		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/16:21:49		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/16:21:49		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:21:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:21:52		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/16:21:52		Entered the load_model method of the File_Operation class
+2022-03-25/16:21:52		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-25/16:21:58		End of Prediction
+2022-03-25/16:25:34		Start of Prediction
+2022-03-25/16:25:38		Entered the remove_columns method of the Preprocessor class
+2022-03-25/16:25:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-25/16:25:40		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-25/16:25:40		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:25:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-25/16:25:43		pcaTransformation Successful.Exited the pcaTransformation method of the Preprocessor class
+2022-03-25/16:25:43		Entered the load_model method of the File_Operation class
+2022-03-25/16:25:43		Model File SVC loaded. Exited the load_model method of the Model_Finder class
+2022-03-25/16:25:48		End of Prediction

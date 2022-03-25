@@ -50,7 +50,7 @@ def predictRouteClient():
 @cross_origin()
 def trainRouteClient():
     try:
-        path = 'EDA + training/aps_failure_training_set.csv'
+        path = 'EDA/aps_failure_training_set.csv'
 
         trainModelObj = trainModel() #object initialization
         trainModelObj.trainingModel() #training the model for the files in the table
