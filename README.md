@@ -44,5 +44,9 @@ From the cost metric defined above, it can be understood that the cost of miscla
 One other constraint is that the latency should be fairly low in detecting the failure, because long delays in the detection of the failure might be disastrous.
 
 ![image](https://user-images.githubusercontent.com/76097123/160237493-9a09e149-5ee2-4afb-84e9-d381c0efcb3d.png)
-![image](https://user-images.githubusercontent.com/76097123/160237543-c8f428be-82dd-4294-87a1-e32cd1fa530a.png)
+
+Missing Value Imputation
+-Used Simple Imputer with MEDIAN strategy.
+
+
 
