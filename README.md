@@ -54,5 +54,13 @@ Missing Value Imputation
 
 Evaluation Metric : cost = FP*10 + FN*500
 
+Trained models:
+
+SVM(in use)
+
+KNN
+XGBOOST
+RANDOM FOREST
+
 
 
