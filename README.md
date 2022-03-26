@@ -8,6 +8,20 @@ The test set contains 16000 examples.
 
 ![image](https://user-images.githubusercontent.com/76097123/160149490-192214bd-5a74-4df6-8075-40e4fcef94b7.png)
 
+## Machine Learning Formulation
+
+The problem can be posed as a Binary classification task where we have to
+predict the cause of the failure of a system in a heavy Scania Truck.
+The 2 possible causes for the failure are:
+
+1. The failure of a component of the Air Pressure System (representing
+positive class )
+
+OR
+
+2. The failure of some other component in the vehicle (representing
+negative class).
+
 ## Number of Attributes: 171
 
     Attribute Information: The attribute names of the data have been anonymized for proprietary reasons.
