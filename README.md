@@ -8,4 +8,13 @@ The test set contains 16000 examples.
 
 ![image](https://user-images.githubusercontent.com/76097123/160149490-192214bd-5a74-4df6-8075-40e4fcef94b7.png)
 
+## Number of Attributes: 171
+
+Attribute Information: The attribute names of the data have been anonymized for proprietary reasons.
+It consists of both single numerical counters and histograms consisting of bins with different conditions. 
+Typically the histograms have open-ended conditions at each end. For example if we measuring the ambient temperature 'T' then the histogram could be defined with 4 bins where:
+bin 1 collect values for temperature T < -20
+bin 2 collect values for temperature T >= -20 and T < 0
+bin 3 collect values for temperature T >= 0 and T < 20
+bin 4 collect values for temperature T > 20
 
