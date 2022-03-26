@@ -45,8 +45,10 @@ One other constraint is that the latency should be fairly low in detecting the f
 
 ![image](https://user-images.githubusercontent.com/76097123/160237493-9a09e149-5ee2-4afb-84e9-d381c0efcb3d.png)
 
-Balanced dataset using SMOTE technique
+Balanced dataset using SMOTE technique.
+
 Columns with more than 60% data missing is removed.
+
 Missing Value Imputation
 -Used Simple Imputer with MEDIAN strategy.
 
