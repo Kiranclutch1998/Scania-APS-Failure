@@ -59,7 +59,9 @@ Trained models:
 SVM(in use)
 
 KNN
+
 XGBOOST
+
 RANDOM FOREST
 
 
