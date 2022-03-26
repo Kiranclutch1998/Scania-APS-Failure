@@ -32,3 +32,13 @@ negative class).
     bin 3 collect values for temperature T >= 0 and T < 20
     bin 4 collect values for temperature T > 20
 
+## Evaluation Metric
+
+    The primary metric to be used is Total-cost which can be represented as Total cost = 10*FP + 500*FN, where FP and FN are the number of false positives which is the and number of false negatives respectively. First part is the cost of unnecessary checks and the second part is the cost of missing a faulty truck.
+    We will also measure the F-Beta score with beta=2, as it gives more weightage in reducing false negatives than false positives, which is what is required as per the problem statement.
+
+## Business constraints
+
+    From the cost metric defined above, it can be understood that the cost of misclassification is very high.
+    One other constraint is that the latency should be fairly low in detecting the failure, because long delays in the detection of the failure might be
+    disastrous.
